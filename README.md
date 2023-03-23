@@ -2,6 +2,8 @@
 
 This repository contains source code for a WHOOP order ingestion Webhook API that can automatically add the data to Notion.
 
+For more information please see the [Sync WHOOP Data With Notion](https://medium.com/@gordiewhite/sync-whoop-data-with-notion-2ec89f5c89b5) medium story
+
 This code uses Python3.9 and Terraform Cloud.
 
 ## How To Use
